@@ -1,4 +1,4 @@
-# Graph Report - clones/agentsmoki_advokat  (2026-08-04)
+# Graph Report - clones/agentsmoki_advokat  (2026-08-03)
 
 ## Corpus Check
 - cluster-only mode — file stats not available
