@@ -1,4 +1,4 @@
-# Graph Report - clones/agentsmoki_advokat  (2026-08-31)
+# Graph Report - clones/agentsmoki_advokat  (2026-08-25)
 
 ## Corpus Check
 - cluster-only mode — file stats not available
@@ -9,7 +9,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `3330888c`
+- Built from commit: `e2b6c704`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
