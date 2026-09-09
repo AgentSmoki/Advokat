@@ -1,0 +1,17 @@
+{
+  "CLAUDE.md": {
+    "mtime": 1783425638.3694901,
+    "ast_hash": "5ed1d84962753e5d86bde17fc50327d9",
+    "semantic_hash": "5ed1d84962753e5d86bde17fc50327d9"
+  },
+  "README.md": {
+    "mtime": 1783425638.3694901,
+    "ast_hash": "957614e2f4b52432bd53957e455243db",
+    "semantic_hash": "957614e2f4b52432bd53957e455243db"
+  },
+  "research/legal_research_2026.md": {
+    "mtime": 1783425638.3694901,
+    "ast_hash": "4cd0cabaf6bb4553e4d3be3b6647873d",
+    "semantic_hash": "4cd0cabaf6bb4553e4d3be3b6647873d"
+  }
+}
